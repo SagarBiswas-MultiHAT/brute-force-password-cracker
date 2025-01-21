@@ -53,3 +53,5 @@ For each length:
 
 Total combinations to try: 3 + 9 + 27 = 39.
 
+#### Contributions are welcome! Feel free to open issues or submit pull requests.
+
